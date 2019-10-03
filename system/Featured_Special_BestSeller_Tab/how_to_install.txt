@@ -1,0 +1,35 @@
+--->How To Install this Module<------
+
+1. First you need to place all files in their root directory in your OpenCart.
+(Move all files in your opencart from upload folder)
+
+2. No VQMod required.
+
+3. Easy Installation.
+
+---->How To Use<--------
+
+1. Just go your administrator side and open Extensions-> Modules
+
+2. Install Featured Special Bestseller Module and add featured products in it.
+
+3. Enable your status and set layout as per yoour requirements.
+
+---->Features<-------
+1. 100% multilingual. Works fine in all languages.
+
+2. All products(Speicals, bestselling, latest, feature) in one tab.
+
+3. Attractive looks on homepage in opencart website
+
+4. Compatible with 2.0.1.1
+
+----->Product Tab<----
+1. Featured product
+
+2.Special Product
+
+3. Bestseller Product
+
+4. Latest Product
+
